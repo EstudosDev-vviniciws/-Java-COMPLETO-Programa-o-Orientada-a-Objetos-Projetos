@@ -1,4 +1,3 @@
-package Matrizes;
 import java.util.Scanner;
 public class matrizes02 {
     public static void main(String[] args) {
